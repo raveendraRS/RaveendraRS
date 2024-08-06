@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CNOPS**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN  && MEAN stack**
 
 - 📫 How to reach me **raveendrakattubadi@gmail.com**
 
