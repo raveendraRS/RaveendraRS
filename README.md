@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/41/09/93/240_F_341099354_7HG7ktwBIaqj5ojwJ30ITbvWICxOsCLq.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raveendrars&label=Profile%20views&color=0e75b6&style=flat" alt="raveendrars" /> </p>
 
-- 🔭 I’m currently working on **CNOPS**
+- 🔭 I’m currently working on **TCS**
 
 - 🌱 I’m currently learning **MERN  && MEAN stack**
 
